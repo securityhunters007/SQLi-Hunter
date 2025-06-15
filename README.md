@@ -36,7 +36,7 @@ SQLi-Hunter uses the following three techniques to identify vulnerabilities:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/SQLi-Hunter.git](https://github.com/your-username/SQLi-Hunter.git)
+    git clone https://github.com/securityhunters007/SQLi-Hunter.git
     cd SQLi-Hunter
     ```
     *(Note: Replace `your-username` with your actual GitHub username)*
