@@ -89,4 +89,4 @@ This tool is intended for **educational purposes and for use in authorized secur
 
 ## 📄 License
 
-This project is licensed under the MIT License.
+This project is licensed under the MIT License. 
